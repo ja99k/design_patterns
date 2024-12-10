@@ -1,0 +1,14 @@
+C:\dev\design_patterns\observer\observer\bin\Debug\net9.0\observer.exe
+C:\dev\design_patterns\observer\observer\bin\Debug\net9.0\observer.deps.json
+C:\dev\design_patterns\observer\observer\bin\Debug\net9.0\observer.runtimeconfig.json
+C:\dev\design_patterns\observer\observer\bin\Debug\net9.0\observer.dll
+C:\dev\design_patterns\observer\observer\bin\Debug\net9.0\observer.pdb
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\observer.AssemblyInfoInputs.cache
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\observer.AssemblyInfo.cs
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\observer.csproj.CoreCompileInputs.cache
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\observer.dll
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\refint\observer.dll
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\observer.pdb
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\observer.genruntimeconfig.cache
+C:\dev\design_patterns\observer\observer\obj\Debug\net9.0\ref\observer.dll
